@@ -1,3 +1,4 @@
+![alt text for screen readers](ahmad.jpg "this is me")
 # AHMAD ALI SAYESS
 
 ## E d u c a t i o n
@@ -49,5 +50,7 @@ ahmadsayess1998@gmail.com
 ##  H unting
 
 ##  A ll kinds of sports.
+##  travel
+
 
 
